@@ -1,9 +1,9 @@
 {
-  "name": "@thomasfaller/myfolder",
+  "name": "fcc-npm-tutorial",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
   "author": "Thomas F.",
@@ -16,5 +16,9 @@
     "url": "https://github.com/thomasfaller/fcc-backendcert-npm-training/issues"
   },
   "homepage": "https://github.com/thomasfaller/fcc-backendcert-npm-training#readme",
-  "description": ""
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": "This is a project for FreeCodeCamp, to learn to use npm / nodeJs"
 }
