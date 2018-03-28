@@ -1,0 +1,20 @@
+{
+  "name": "@thomasfaller/myfolder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas F.",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/fcc-backendcert-npm-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomasfaller/fcc-backendcert-npm-training/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/fcc-backendcert-npm-training#readme",
+  "description": ""
+}
